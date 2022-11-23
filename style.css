@@ -1,0 +1,23 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status {
+    font-size: 18px;
+    border-radius: 90px;
+}
+
+.a {
+    background-color: aqua;
+    text-decoration-color: aquamarine;
+    font-size: 26px;
+    padding: 20px;
+    margin: 30px;
+}
